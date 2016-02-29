@@ -2,4 +2,4 @@
 
 Nodejs SDK for amazon clouddrive
 
-> 安叔和蛋叔放种子的地方
+> 安叔，蛋叔和屁股放种子的地方
